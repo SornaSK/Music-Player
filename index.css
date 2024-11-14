@@ -150,13 +150,13 @@
 }
 #vol-up{
     position: absolute;
-    margin-left: 30px;
+    margin-left: 25px;
 }
 .current-time{
     margin-left: 10px;
 }
 .total-duration{
-    margin-left: 380px ;
+    margin-left: 372px ;
     margin-top: -23px;
 }
 #preplay, #play, #next{
