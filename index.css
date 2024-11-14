@@ -184,7 +184,7 @@
     .music-container {
         flex-direction: column;
         position: relative;
-        width: 100%;
+        height: 100%;
     }
     .playlist-toggle {
         display: block; 
@@ -279,7 +279,7 @@
         font-size: 18px;
     }
     #vol-down{
-        margin-left: 45px;
+        margin-left: 50px;
     }
     #vol-up{
         position: absolute;
