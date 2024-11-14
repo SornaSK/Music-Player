@@ -189,7 +189,7 @@
         display: block; 
         position: relative; 
         top: -445px;
-        right: 8px; 
+        right: 5px; 
         z-index: 2;   
     }
     #playlist-btn:hover {
@@ -290,11 +290,11 @@
         margin-top: 5px;
     }
     .seek_slider{
-        width: 50%;
-        margin-left: 40px;
+        width: 60%;
+        margin-left: 60px;
     }
     .volume_slider{
-        width:30%;
-        margin-left: 50px;
+        width:40%;
+        margin-left: 70px;
     }
 }
