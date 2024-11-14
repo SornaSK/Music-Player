@@ -188,7 +188,7 @@
     .playlist-toggle {
         display: block; 
         position: relative; 
-        top: -450px;
+        top: -447px;
         right: -2px; 
         z-index: 2; 
         text-align: right;
@@ -282,7 +282,7 @@
     }
     .volume_slider {
         margin-top: 5.5px;
-        width:40%;
+        width:42%;
         margin-left: 80px;
     }
     .seek_slider{
