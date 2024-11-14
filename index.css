@@ -188,8 +188,8 @@
     .playlist-toggle {
         display: block; 
         position: relative; 
-        top: -450px;
-        right: -2px; 
+        top: -445px;
+        right: 12px; 
         z-index: 2;   
     }
     #playlist-btn:hover {
@@ -277,7 +277,7 @@
         font-size: 18px;
     }
     #vol-down{
-        margin-left: 10px;
+        margin-left: 20px;
     }
     #vol-up{
         position: absolute;
@@ -290,6 +290,6 @@
         margin-left: 20px;
     }
     .volume_slider{
-        margin-left: 10px;
+        margin-left: 30px;
     }
 }
