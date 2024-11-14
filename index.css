@@ -216,7 +216,7 @@
 
     .player-section {
         width: 100%;
-        height: 80%
+        height: 100%
         margin-top: 50px;
         position: relative;
         z-index: 0;
@@ -269,7 +269,7 @@
     }
     .total-duration{
         margin-top: -20px;
-        margin-left: 90%;
+        margin-left: 87%;
     }
     .seek_slider,
     .volume_slider {
@@ -280,7 +280,7 @@
         font-size: 18px;
     }
     #vol-down{
-        margin-left: 40px;
+        margin-left: 45px;
     }
     #vol-up{
         position: absolute;
@@ -288,13 +288,14 @@
     }
     .volume_slider {
         margin-top: 5px;
+        width:40%;
+        margin-left: 80px;
     }
     .seek_slider{
         width: 60%;
         margin-left: 60px;
     }
     .volume_slider{
-        width:40%;
-        margin-left: 70px;
+
     }
 }
