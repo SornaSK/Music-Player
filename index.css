@@ -184,13 +184,15 @@
     .music-container {
         flex-direction: column;
         position: relative;
+        width: 100%;
     }
     .playlist-toggle {
         display: block; 
         position: relative; 
         top: -445px;
         right: -2px; 
-        z-index: 2;   
+        z-index: 2; 
+        text-align: right;
     }
     #playlist-btn:hover {
         background-color: #1d39f0d0;
@@ -223,10 +225,7 @@
     }
 
     .playlist-toggle {
-        text-align: right;
-        margin-bottom: 10px;
-        position: relative;
-        z-index: 2;
+
     }
 
     .playlist-toggle button {
@@ -287,15 +286,12 @@
         margin-left: 17px;
     }
     .volume_slider {
-        margin-top: 5px;
+        margin-top: 5.5px;
         width:40%;
         margin-left: 80px;
     }
     .seek_slider{
         width: 60%;
         margin-left: 60px;
-    }
-    .volume_slider{
-
     }
 }
